@@ -39,7 +39,7 @@ function startsDisplay(longestWord){
     console.log(b);
 }
 
-//Creating a function for displaying lines with starts a words
+//Creating a function for displaying lines with starts and words
 
 
 function startsWords(array,display,longestWord){
